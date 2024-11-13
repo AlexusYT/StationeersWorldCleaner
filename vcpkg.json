@@ -1,0 +1,9 @@
+{
+  "name" : "stationeersworldcleaner",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "f0c8848cde589649bca3ab3649668540403786ce",
+  "dependencies" : [ {
+    "name" : "libxmlpp",
+    "version>=" : "5.0.0#3"
+  } ]
+}
